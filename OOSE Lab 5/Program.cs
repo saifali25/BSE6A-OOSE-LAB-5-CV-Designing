@@ -11,6 +11,7 @@ namespace OOSE_Lab_5
         static void Main(string[] args)
         {
             Console.WriteLine("MY CV");
+
         }
     }
 }
